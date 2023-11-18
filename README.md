@@ -31,12 +31,21 @@
   <a href="https://www.instagram.com/ahmed_m.m_mobillife" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  </a>
+  <a href="https://twitter.com/ahmed25_dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  
   <a href="https://t.me/ahmedmohamed_dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="https://www.google.com/ahmdmhmdmhmdbdaghny@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  <a  href="https://www.google.com/ahmedmohamedmohamedSE@gmail.com" target="_blank">
+    <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="50" height="40" alt="gmail logo" />
+  </a>
+
   
 </div>
 
@@ -46,7 +55,7 @@
 <p align="left">
   <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,firebase,xd,figma,vscode,androidstudio,git,github,html,css,javascript&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,java,kotlin,firebase,sqlite,xd,figma,vscode,androidstudio,git,github,html,css,javascript&theme=dark" />
   </a>
  
 </div>
