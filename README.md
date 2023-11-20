@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 <!-- <br> -->
-<h1 align="center">Hi 👋, I'm Ahmed Mohamed Mohamed </h1>
+<h1 align="center">Hi 👋, I'm Ahmed Mohamed </h1>
 <h3 >
   My name is Ahmed, and I study and work as a Flutter developer. 🚀 Currently,
   I'm a fresh graduate of Computer Science 📚💻, and I have a strong passion for
